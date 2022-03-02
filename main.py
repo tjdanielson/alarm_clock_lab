@@ -1,4 +1,4 @@
-from alarm_clock import AlarmClock
+from AlarmClock import AlarmClock
 
 alarm_clock_one = AlarmClock()
 
