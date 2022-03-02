@@ -7,7 +7,7 @@ class AlarmClock:
         self.alarm_time = ''
 
     def set_time(self):
-        self.current_time = input('What time is it? ')
+        self.current_time = input('What time is it, currently? ')
         print('The current time is: ' + self.current_time)
 
     def toggle_alarm(self):
